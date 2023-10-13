@@ -8,5 +8,5 @@ daria_zahedan:
 
   packages:
     - adaptation-droidian-zahedan
-    - adaptation-zahedans-configs
+    - adaptation-zahedan-configs
     - droidian-camera
