@@ -1,0 +1,12 @@
+daria_zahedan:
+  type: image
+  arch: arm64
+  edition: phosh
+  variant: phone
+  apilevel: 32
+  use_internal_repository: false
+
+  packages:
+    - adaptation-droidian-zahedan
+    - adaptation-zahedans-configs
+    - droidian-camera
