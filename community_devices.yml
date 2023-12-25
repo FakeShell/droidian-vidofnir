@@ -1,4 +1,4 @@
-daria_zahedan:
+volla_vidofnir:
   type: image
   arch: arm64
   edition: phosh
@@ -7,6 +7,6 @@ daria_zahedan:
   use_internal_repository: false
 
   packages:
-    - adaptation-droidian-zahedan
-    - adaptation-zahedan-configs
+    - adaptation-droidian-vidofnir
+    - adaptation-vidofnir-configs
     - droidian-camera
