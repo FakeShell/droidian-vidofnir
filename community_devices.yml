@@ -1,5 +1,5 @@
 volla_vidofnir:
-  type: image
+  type: rootfs
   arch: arm64
   edition: phosh
   variant: phone
@@ -10,3 +10,4 @@ volla_vidofnir:
     - adaptation-droidian-vidofnir
     - adaptation-vidofnir-configs
     - droidian-camera
+    - droidian-quirks-full-resize
